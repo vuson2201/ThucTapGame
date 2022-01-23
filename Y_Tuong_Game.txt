@@ -1,0 +1,9 @@
+Tên game: Tank War 2D
+Ý tưởng:
+	Điều khiển xe tank của bản thân tiêu diệt xe tank địch để qua màn.
+	Cuối môi màn chơi sẽ có 1 con boss.
+	Mọi trạng thái của tank sẽ giữ nguyên khi sang màn tiếp theo.
+	Chết chơi lại từ màn đầu tiên.
+	(Nếu có đủ thời gian và khả năng thì qua mỗi màn chơi ngươi chơi sẽ nhận được 1 item ngẫu nhiên để tăng sức mạnh cho xe tank của bản thân.)
+	
+	
